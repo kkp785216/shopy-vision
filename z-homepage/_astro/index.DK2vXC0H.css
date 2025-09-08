@@ -2350,7 +2350,7 @@ video {
   }
 }
 :root {
-  --app-height: 100svh;
+  --app-height: 100vh;
 }
 .z-icon:before {
   content: var(--unicode);
